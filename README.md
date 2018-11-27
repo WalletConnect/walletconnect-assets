@@ -1,3 +1,3 @@
-# walletconnect-assets
+# WalletConnect Assets
 
 WalletConnect Assets (svg, png and jpg)
