@@ -2,7 +2,7 @@
 
 Our brand toolkit. Collected here are all devices we use to express the WalletConnect brand.
 
-- Download our [media pack]().
+- Download our [media pack](https://raw.githubusercontent.com/WalletConnect/walletconnect-assets/master/Media Pack.zip).
 
 
 ## Our Logo
