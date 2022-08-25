@@ -17,6 +17,14 @@ Only use the provided versions. Do not edit, change, distort, recolor, or reconf
 
 You can highlight that your product works with WalletConnect by using one of these badges. Do not modify them.
 
+<img src="https://github.com/WalletConnect/walletconnect-assets/raw/master/Badge/Black%20(Default)/Badge%402x.png" width="178">
+<img src="https://github.com/WalletConnect/walletconnect-assets/raw/master/Badge/Blue/Badge%402x.png" width="178">
+<img src="https://raw.githubusercontent.com/WalletConnect/walletconnect-assets/master/Badge/Gradient/Badge%402x.png" width="178">
+<img src="https://raw.githubusercontent.com/WalletConnect/walletconnect-assets/master/Badge/White/Badge%402x.png" width="178">
+
+
+
+
 ## WalletConnect icon
 
 Only use the provided versions. Do not edit, change, distort, recolor, or reconfigure the WalletConnect icons.
