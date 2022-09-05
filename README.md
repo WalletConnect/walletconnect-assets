@@ -56,6 +56,8 @@ Use these when it's necessary to place additional brand visuals that support you
 <img src="https://github.com/WalletConnect/walletconnect-assets/blob/master/Visuals/Hero%20Horizontal.jpg" height="250">
 <img src="https://github.com/WalletConnect/walletconnect-assets/blob/master/Visuals/Hero%20Vertical.jpg" height="500">
 
+---
+
 ## Colors
 
 We use these primary colors and their shades across our brand and products.
