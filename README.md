@@ -9,9 +9,22 @@ Our brand toolkit. Collected here are all devices we use to express the WalletCo
 
 Only use the provided versions. Do not edit, change, distort, recolor, or reconfigure the WalletConnect logo.
 
+<img src="https://github.com/WalletConnect/walletconnect-assets/blob/master/Logo/Blue%20(Default)/Logo.svg" height="128">
+<img src="https://github.com/WalletConnect/walletconnect-assets/blob/master/Logo/Black/Logo.svg" height="128">
+<img src="https://github.com/WalletConnect/walletconnect-assets/blob/master/Logo/White/Logo.svg" height="128">
+<img src="https://github.com/WalletConnect/walletconnect-assets/blob/master/Logo/Gradient/Logo.png" height="128">
+
+---
+
 ## Our brand and wordmark lockup
 
 Only use the provided versions. Do not edit, change, distort, recolor, or reconfigure the WalletConnect logo.
+
+<img src="https://github.com/WalletConnect/walletconnect-assets/blob/master/Lockup/Blue%20(Default)/Lockup.svg" height="100">
+<img src="https://github.com/WalletConnect/walletconnect-assets/blob/master/Lockup/Black/Lockup.svg" height="100">
+<img src="https://github.com/WalletConnect/walletconnect-assets/blob/master/Lockup/White/Lockup.svg" height="100">
+
+---
 
 ## WalletConnect badge
 
@@ -22,21 +35,26 @@ You can highlight that your product works with WalletConnect by using one of the
 <img src="https://raw.githubusercontent.com/WalletConnect/walletconnect-assets/master/Badge/Gradient/Badge%402x.png" width="178">
 <img src="https://raw.githubusercontent.com/WalletConnect/walletconnect-assets/master/Badge/White/Badge%402x.png" width="178">
 
-
-
+---
 
 ## WalletConnect icon
 
 Only use the provided versions. Do not edit, change, distort, recolor, or reconfigure the WalletConnect icons.
 
+<img src="https://github.com/WalletConnect/walletconnect-assets/blob/master/Icon/Blue%20(Default)/Icon.svg" width="178">
+<img src="https://github.com/WalletConnect/walletconnect-assets/blob/master/Icon/Black/Icon.svg" width="178">
+<img src="https://github.com/WalletConnect/walletconnect-assets/blob/master/Icon/White/Icon.svg" width="178">
+<img src="https://github.com/WalletConnect/walletconnect-assets/blob/master/Icon/Gradient/Icon.png" width="178">
+
+
 ## Colors
 
 We use these primary colors and their shades across our brand and products.
 
-- Blue #3B99FC
-- Cyan #19C6FF
-- Green #2BEE6C
-- Orange #FF974C
+- Blue `#3B99FC`
+- Cyan `#19C6FF`
+- Green `#2BEE6C`
+- Orange `#FF974C`
 
 ## Guidelines
 
