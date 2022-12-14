@@ -9,6 +9,8 @@ Our brand toolkit. Collected here are all devices we use to express the WalletCo
 
 Only use the provided versions. Do not edit, change, distort, recolor, or reconfigure the WalletConnect logo.
 
+[Browse logos](Logo/).
+
 <img src="https://github.com/WalletConnect/walletconnect-assets/blob/master/Logo/Blue%20(Default)/Logo.svg" height="128">
 <img src="https://github.com/WalletConnect/walletconnect-assets/blob/master/Logo/Black/Logo.svg" height="128">
 <img src="https://github.com/WalletConnect/walletconnect-assets/blob/master/Logo/White/Logo.svg" height="128">
@@ -20,6 +22,8 @@ Only use the provided versions. Do not edit, change, distort, recolor, or reconf
 
 Only use the provided versions. Do not edit, change, distort, recolor, or reconfigure the WalletConnect logo.
 
+[Browse lockups](Lockup/).
+
 <img src="https://github.com/WalletConnect/walletconnect-assets/blob/master/Lockup/Blue%20(Default)/Lockup.svg" height="100">
 <img src="https://github.com/WalletConnect/walletconnect-assets/blob/master/Lockup/Black/Lockup.svg" height="100">
 <img src="https://github.com/WalletConnect/walletconnect-assets/blob/master/Lockup/White/Lockup.svg" height="100">
@@ -29,6 +33,8 @@ Only use the provided versions. Do not edit, change, distort, recolor, or reconf
 ## WalletConnect badge
 
 You can highlight that your product works with WalletConnect by using one of these badges. Do not modify them.
+
+[Browse badges](Badge/).
 
 <img src="https://github.com/WalletConnect/walletconnect-assets/raw/master/Badge/Black%20(Default)/Badge%402x.png" width="178">
 <img src="https://github.com/WalletConnect/walletconnect-assets/raw/master/Badge/Blue/Badge%402x.png" width="178">
@@ -41,6 +47,8 @@ You can highlight that your product works with WalletConnect by using one of the
 
 Only use the provided versions. Do not edit, change, distort, recolor, or reconfigure the WalletConnect icons.
 
+[Browse icons](Icon/).
+
 <img src="https://github.com/WalletConnect/walletconnect-assets/blob/master/Icon/Blue%20(Default)/Icon.svg" width="178">
 <img src="https://github.com/WalletConnect/walletconnect-assets/blob/master/Icon/Black/Icon.svg" width="178">
 <img src="https://github.com/WalletConnect/walletconnect-assets/blob/master/Icon/White/Icon.svg" width="178">
@@ -51,6 +59,8 @@ Only use the provided versions. Do not edit, change, distort, recolor, or reconf
 ## WalletConnect Visuals
 
 Use these when it's necessary to place additional brand visuals that support your editorial, social or event.
+
+[Browse visuals](Visuals/).
 
 <img src="https://github.com/WalletConnect/walletconnect-assets/blob/master/Visuals/Header.jpg" height="250">
 <img src="https://github.com/WalletConnect/walletconnect-assets/blob/master/Visuals/Hero%20Horizontal.jpg" height="250">
